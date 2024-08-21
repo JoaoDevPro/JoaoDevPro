@@ -1,6 +1,10 @@
 
 
-<h2 align="left">Hi 👋! My name is João Victor Soares and I'm a software developer, i from Brasil</h2>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
+</h1>
 
 ###
 
